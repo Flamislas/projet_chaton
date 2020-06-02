@@ -2,6 +2,10 @@ require 'uri'
 
 class Item < ApplicationRecord
 
+  has_many :joint_table_carts_items
+  has_many :carts, through: :joint_table_carts_items
+
+
   validates :title,
     presence: true, length: { minimum: 2 }
 
@@ -14,4 +18,5 @@ class Item < ApplicationRecord
   validates :image_url,
     presence: true
 
+    
 end
