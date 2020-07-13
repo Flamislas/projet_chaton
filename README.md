@@ -1,31 +1,7 @@
 # README
 
-To test our fantastic app go to the site and see or buy our most beautiful cat pictures: 
+## First group project for THP
 
-https://projet-chaton-development.herokuapp.com/ 
-or
-https://projet-chaton-production.herokuapp.com/
+Website to sell pictures of kitten. Done in 1 week.
 
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+link : https://projet-chaton-production.herokuapp.com/
